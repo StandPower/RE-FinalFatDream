@@ -10,3 +10,5 @@ Diss on 11/26
  
 
 Second blood diss on 12/3.
+
+And we find out, if we done the avg engine. We will complete 50% of game, so we dicide to spend more time on it.
