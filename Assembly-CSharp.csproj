@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{425C5FDD-2034-76A8-E594-6A91E8859F11}</ProjectGuid>
+    <ProjectGuid>{A56B2488-FC1A-7065-B64B-ACBF0A300E72}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -51,9 +51,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\DialogData.cs" />
      <Compile Include="Assets\Script\DialogEngine.cs" />
+     <Compile Include="Assets\Script\MainGame.cs" />
+     <Compile Include="Assets\Script\UnitTest\DialogTest.cs" />
  <Reference Include="Facebook.Unity.Settings">
- <HintPath>F:/unity3D/FinalFatDream/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
+ <HintPath>F:/unity3D/RE-FinalFatDream/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>H:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
