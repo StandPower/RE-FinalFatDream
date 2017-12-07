@@ -6,6 +6,10 @@ public class MainGame : MonoBehaviour
 {	
 	public Text dialog;
 	public Button nextButton;
+
+	public Button[] Choose = new Button[3];
+
+
 	AVGEngine day1 = new AVGEngine ();
 
 	void Start (){
